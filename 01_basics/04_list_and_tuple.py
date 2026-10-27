@@ -75,6 +75,7 @@ print("修改前:", t_trap)
 t_trap[2][0] = 'X'
 print("修改后:", t_trap)
 
+
 """
 💡 终极拷问结论：
 虽然 t_trap 是 tuple 类型不可变，但是里面的元素是 List。
