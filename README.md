@@ -42,8 +42,8 @@ python-learning-journal/
 | 2026-11-01 | 面向对象 | 廖雪峰教程：高级OOP、异常 | 继承多态、`@property`、异常捕获 `try...except` | [notes](./notes/) | ⚪ |
 | 2026-11-02 | 工程基础 | 廖雪峰教程：IO、正则、内建模块 | 文件读写、`json`/`datetime`、正则匹配 `re` | [04_scripts](./04_scripts/) | ⚪ |
 | 2026-11-03 | 并发实战 | 廖雪峰教程：进程与线程 | 多线程基础、`asyncio` 协程初探、完成首个实战小脚本 | [04_scripts](./04_scripts/) | ⚪ |
-| 2026-11-04 | Web后端 | 官方文档：FastAPI 入门 | 路由搭建、Pydantic 数据校验、接口测试 | [05_web_api](./05_web_api/) | ⚪ |
-| 2026-11-05 | AI探索 | LangChain 官方文档 | 环境配置、大模型 API 接入、Prompt 模板测试 | [06_ai_agent](./06_ai_agent/) | ⚪ |
+| *待定* | Web后端 | 官方文档：FastAPI 入门 | 路由搭建、Pydantic 数据校验、接口测试 | [05_web_api](./05_web_api/) | ⚪ |
+| *待定* | AI探索 | LangChain 官方文档 | 环境配置、大模型 API 接入、Prompt 模板测试 | [06_ai_agent](./06_ai_agent/) | ⚪ |
 | *待定* | *待定* | *...持续更新...* | *...* | *...* | ⚪ |
 
 > **状态图例**： ⚪ 未开始 | 🟡 进行中 | 🟢 已完成
